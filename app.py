@@ -40,7 +40,7 @@
 
 #     st.write(response["message"]["content"])
 
-import streamlit as st
+import stramlit as st
 
 st.title("AI Chatbot")
 
